@@ -1,0 +1,23 @@
+body{
+background-color: lightpink;
+}
+h1{
+color:#CC66CC;
+text-align: center;
+border: dashed;
+}
+h2{
+color:#DA70D6;
+font-family: Comic Sans MS;
+border:3px solid white;
+}
+p{
+color: black;
+font-family: Comic Sans MS;
+text-align: left;
+}
+
+
+input{
+	background-color:#EE82EE;
+}

@@ -1,0 +1,20 @@
+body{
+background-color: lightpink;
+}
+h2{
+color:#CC66CC;
+font-family: Courier;
+text-align: center;
+border:8px solid white;
+}
+h1{
+color:#CC6699;
+font-family: Courier;
+text-align: center;
+border:8px solid white;
+}
+p{
+color: black;
+font-family: Consolas;
+text-align: left;
+}
